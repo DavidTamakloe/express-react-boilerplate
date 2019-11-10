@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log
+*.bat
+*.sh
+.sass-cache
+.vscode
+nodemon.json
+dist/**/bundle.js
+dist/lib/*
+
